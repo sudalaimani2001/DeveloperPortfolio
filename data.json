@@ -1,0 +1,193 @@
+{
+  "personal": {
+    "name": "SUDALAI MANI K",
+    "title": "Full-Stack Software Developer",
+    "bio": "Passionate software developer with 5+ years of experience building scalable web applications and mobile solutions. I love turning complex problems into simple, beautiful designs.",
+    "description": "I specialize in modern web technologies and have a strong background in both frontend and backend development. Always eager to learn new technologies and tackle challenging projects."
+  },
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "icon": "fas fa-code",
+      "description": "React, Vue.js, TypeScript, HTML5, CSS3",
+      "techIcons": [
+        {
+          "name": "React",
+          "icon": "fab fa-react"
+        },
+        {
+          "name": "Vue.js",
+          "icon": "fab fa-vuejs"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "fab fa-js"
+        },
+        {
+          "name": "HTML5",
+          "icon": "fab fa-html5"
+        },
+        {
+          "name": "CSS3",
+          "icon": "fab fa-css3-alt"
+        }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "icon": "fas fa-server",
+      "description": "Node.js, Python, Express, Django, REST APIs",
+      "techIcons": [
+        {
+          "name": "Node.js",
+          "icon": "fab fa-node-js"
+        },
+        {
+          "name": "Python",
+          "icon": "fab fa-python"
+        },
+        {
+          "name": "Express",
+          "icon": "fas fa-server"
+        },
+        {
+          "name": "Django",
+          "icon": "fab fa-python"
+        },
+        {
+          "name": "REST APIs",
+          "icon": "fas fa-plug"
+        }
+      ]
+    },
+    {
+      "name": "Database Management",
+      "icon": "fas fa-database",
+      "description": "PostgreSQL, MongoDB, Redis, SQL optimization",
+      "techIcons": [
+        {
+          "name": "PostgreSQL",
+          "icon": "fas fa-database"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "fas fa-leaf"
+        },
+        {
+          "name": "Redis",
+          "icon": "fas fa-bolt"
+        },
+        {
+          "name": "SQL",
+          "icon": "fas fa-table"
+        }
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "icon": "fas fa-cloud",
+      "description": "AWS, Docker, Kubernetes, CI/CD pipelines",
+      "techIcons": [
+        {
+          "name": "AWS",
+          "icon": "fab fa-aws"
+        },
+        {
+          "name": "Docker",
+          "icon": "fab fa-docker"
+        },
+        {
+          "name": "Kubernetes",
+          "icon": "fas fa-dharmachakra"
+        },
+        {
+          "name": "CI/CD",
+          "icon": "fas fa-infinity"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "icon": "fas fa-mobile-alt",
+      "description": "React Native, Flutter, iOS/Android development",
+      "techIcons": [
+        {
+          "name": "React Native",
+          "icon": "fab fa-react"
+        },
+        {
+          "name": "Flutter",
+          "icon": "fas fa-feather"
+        },
+        {
+          "name": "iOS",
+          "icon": "fab fa-apple"
+        },
+        {
+          "name": "Android",
+          "icon": "fab fa-android"
+        }
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "icon": "fas fa-paint-brush",
+      "description": "Figma, Adobe XD, Responsive design, Accessibility",
+      "techIcons": [
+        {
+          "name": "Figma",
+          "icon": "fab fa-figma"
+        },
+        {
+          "name": "Adobe XD",
+          "icon": "fab fa-adobe"
+        },
+        {
+          "name": "Responsive",
+          "icon": "fas fa-desktop"
+        },
+        {
+          "name": "Accessibility",
+          "icon": "fas fa-universal-access"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-Commerce Platform",
+      "description": "A full-stack e-commerce solution with real-time inventory management, payment processing, and admin dashboard.",
+      "technologies": ["React", "Node.js", "PostgreSQL", "Stripe", "AWS"],
+      "icon": "fas fa-shopping-cart",
+      "links": {
+        "github": "https://github.com/alexjohnson/ecommerce-platform",
+        "live": "https://ecommerce-demo.alexjohnson.dev"
+      }
+    },
+    {
+      "title": "Task Management App",
+      "description": "A collaborative project management tool with real-time updates, file sharing, and team communication features.",
+      "technologies": ["Vue.js", "Express", "MongoDB", "Socket.io", "Docker"],
+      "icon": "fas fa-tasks",
+      "links": {
+        "github": "https://github.com/alexjohnson/task-manager",
+        "live": "https://taskmanager.alexjohnson.dev"
+      }
+    },
+    {
+      "title": "Weather Analytics Dashboard",
+      "description": "A data visualization dashboard that aggregates weather data from multiple APIs and provides predictive analytics.",
+      "technologies": ["Python", "Django", "D3.js", "PostgreSQL", "Celery"],
+      "icon": "fas fa-cloud-sun",
+      "links": {
+        "github": "https://github.com/alexjohnson/weather-dashboard",
+        "live": "https://weather.alexjohnson.dev"
+      }
+    }
+  ],
+  "contact": {
+    "email": "sudalaimanisivagiri@email.com",
+    "linkedin": "https://linkedin.com/in/alexjohnson-dev",
+    "github": "https://github.com/sudalaimani2001"
+  }
+} 
